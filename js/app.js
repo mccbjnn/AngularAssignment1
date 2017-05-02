@@ -3,7 +3,7 @@
 'use strict';
 
 
-angular.module ('LunchCheck', [])
+angular.module('LunchCheck', [])
 .controller('LuchCheckController', LunchCheckController);
 
 
